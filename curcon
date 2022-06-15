@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Currency converter ()
+
+clear
+echo	"Welcome to the currency converter (c)SensyCodez Technologies"
+echo	""
+echo	"This will conver Your amount in UGX to USD"
+echo	""
+read -p "Enter the amount to be converted(UGX): " amount
+echo	"UGX$amount in USD is: $(($amount/3500))USD"
+echo	""
+echo	"-----------------------------------------------------"
+echo	"		Created by Sensy
+Please note that this program is still under development
+                    Thanks"
+echo    "-----------------------------------------------------"
+
